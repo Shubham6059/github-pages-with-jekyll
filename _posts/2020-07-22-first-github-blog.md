@@ -1,3 +1,8 @@
+---
+title: "Welcome to my GitHub blog!"
+date: 2020-07-22
+---
+
 # Hi! This is my first blog post on GitHub
 
 I am now trying my hands on with the GitHub Pages workflow.
